@@ -1,0 +1,18 @@
+{
+  "name": "HWNodeJS",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:AlyssonRhuan/HWNodeJS.git",
+  "author": "Alysson Rhuan <alysson_salgado@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "uuidv4": "^6.1.1"
+  }
+}
